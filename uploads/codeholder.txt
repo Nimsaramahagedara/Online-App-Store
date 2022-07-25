@@ -1,0 +1,20 @@
+41
+
+ <tr><td class="app"><img src="images/app (1).png" alt="" class="app-img">
+                               <div class="detail-container">
+                                    <div class="app-details"><h4 class="app-title">LAB Local ADB</h4><p class="app-desc">AMD INTEL Driver Update software</p>
+                                        <p class="app-type">Drivers and Firmware</p></div>
+                                    <div class="row-details">
+                                    <div>
+                                        <i class="fa-brands fa-windows detail windows" ></i>Windows
+                                    </div>
+                                    <div>
+                                        <p class="detail">Reputaion</p>
+                                    </div>
+                                    <div>
+                                         24.5 <span>MB</span>
+                                    </div>
+                                   
+                                </div>
+                                </div>
+                                </td></tr>   
